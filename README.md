@@ -14,21 +14,6 @@ I enjoy building modern applications using **React.js, Node.js, Express.js, Type
 
 ---
 
-## 👨‍💻 About Me
-
-* 💻 Full Stack Developer with **2 years of professional experience**
-* ⚛️ Experienced in building applications with React.js and TypeScript
-* 🚀 Strong interest in Backend Development and scalable APIs
-* 🔐 Experience with JWT Authentication, OAuth 2.0, and Role-Based Access Control
-* 💳 Worked with Payment Gateways like Stripe and PayPal
-* 🔄 Experience with REST APIs and WebSocket-based real-time applications
-* ☁️ Familiar with AWS services including S3
-* 🗄️ Experience working with SQL and NoSQL databases
-* 🐳 Familiar with Docker and modern development workflows
-* 🌱 Currently expanding knowledge in Python, FastAPI, AI, and Generative AI
-
----
-
 # 🛠️ Tech Stack
 
 ### Frontend
@@ -54,50 +39,6 @@ I enjoy building modern applications using **React.js, Node.js, Express.js, Type
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,postman,npm,yarn,bun" />
 </p>
-
----
-
-# 🚀 Featured Skills
-
-```text
-Frontend Development
-├── React.js
-├── TypeScript
-├── Next.js
-├── Redux
-├── Zustand
-├── TanStack Query
-├── React Router
-├── Tailwind CSS
-├── Material UI
-└── shadcn/ui
-
-Backend Development
-├── Node.js
-├── Express.js
-├── REST APIs
-├── JWT Authentication
-├── OAuth 2.0
-├── WebSocket
-├── Stripe
-├── PayPal
-└── Background Processing
-
-Databases
-├── MongoDB
-├── MySQL
-├── PostgreSQL
-└── SQLite
-
-DevOps & Tools
-├── Git & GitHub
-├── GitLab
-├── Docker
-├── AWS S3
-├── Postman
-├── npm / Yarn / Bun
-└── CI/CD
-```
 
 ---
 
@@ -179,30 +120,6 @@ An internal Human Resource Management System.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=manasdas-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manasdas-dev&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasdas-dev&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
@@ -211,7 +128,7 @@ An internal Human Resource Management System.
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/manas-das-cse">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
